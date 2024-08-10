@@ -1,4 +1,5 @@
 ---
+
 title: Creating reusable content
 shortTitle: Create reusable content
 intro: 'You can create reusable content that can be referenced in multiple content files.'
